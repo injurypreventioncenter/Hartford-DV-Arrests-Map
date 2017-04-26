@@ -2,7 +2,7 @@
 Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
 
 ## Live links (replace with your own)
-- Leaflet Map https://brynnemaciver.github.io/leaflet-maps-with-google-sheets/.
+- Leaflet Map https://injurypreventioncenter.github.io/Hartford-DV-Arrests-Map/.
 - Google Sheets template https://docs.google.com/spreadsheets/d/1RK7kJ6SbX2PhMIYN8YOip20g_6xbhy4kGTb_RfW76eU/edit#gid=745832354
 
 ## Create your own
